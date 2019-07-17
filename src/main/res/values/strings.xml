@@ -392,7 +392,7 @@
     <string name="file_migration_failed_not_enough_space">More space needed</string>
     <string name="file_migration_failed_not_writable">Could not write to destination file</string>
     <string name="file_migration_failed_not_readable">Could not read source file</string>
-    <string name="file_migration_failed_dir_already_exists">Nextcloud folder already exists</string>
+    <string name="file_migration_failed_dir_already_exists">SafeCalls Cloud folder already exists</string>
     <string name="file_migration_failed_while_coping">Failed during migration</string>
     <string name="file_migration_failed_while_updating_index">Failed to update index</string>
 
@@ -524,7 +524,7 @@
 
     <string name="uploads_view_upload_status_waiting_for_charging">Awaiting charge</string>
     <string name="actionbar_search">Search</string>
-    <string name="files_drop_not_supported">This is a Nextcloud feature, please upgrade.</string>
+    <string name="files_drop_not_supported">This is a SafeCloud feature, please upgrade.</string>
     <string name="learn_more">Learn more</string>
     <string name="drawer_synced_folders">Auto upload</string>
     <string name="drawer_participate">Participate</string>
