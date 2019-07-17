@@ -16,7 +16,7 @@
     <string name="db_file">nextcloud.db</string>
     <string name="db_name">nextcloud</string>
     <string name="data_folder">nextcloud</string>
-    <string name="default_display_name_for_root_folder">Nextcloud</string>
+    <string name="default_display_name_for_root_folder">SafeCallsOS Cloud</string>
     <string name="nextcloud_user_agent">Mozilla/5.0 (Android) Nextcloud-android/%1$s</string>
 
     <!-- URLs and flags related -->
@@ -26,7 +26,7 @@
     <!-- Requires server url to be set -->
     <string name="server_input_type">regular</string>
     <bool name="show_provider_or_own_installation">false</bool>
-    <string name="provider_registration_server">https://www.nextcloud.com/register</string>
+    <string name="provider_registration_server">https://www.safecallsos.com/register</string>
 
     <!-- Flags to enable/disable some features -->
     <string name="send_files_to_other_apps">on</string>
@@ -47,7 +47,7 @@
 
 
     <!-- Multiaccount support -->
-    <bool name="multiaccount_support">true</bool>
+    <bool name="multiaccount_support">false</bool>
 
     <!-- Drawer options -->
     <bool name="recently_added_enabled">false</bool>
@@ -64,21 +64,21 @@
     <bool name="passcode_enabled">true</bool>
     <bool name="device_credentials_enabled">true</bool>
     <bool name="show_hidden_files_enabled">true</bool>
-    <bool name="davdroid_integration_enabled">true</bool>
-    <bool name="help_enabled">true</bool>
+    <bool name="davdroid_integration_enabled">false</bool>
+    <bool name="help_enabled">false</bool>
     <string name="url_help">https://help.nextcloud.com/c/feature</string>
-    <bool name="privacy_enabled">true</bool>
-    <string name="privacy_url">https://nextcloud.com/privacy</string>
+    <bool name="privacy_enabled">false</bool>
+    <string name="privacy_url">https://safecallsos.com/privacy</string>
     <bool name="imprint_enabled">false</bool>
-    <bool name="recommend_enabled">true</bool>
-    <bool name="feedback_enabled">true</bool>
+    <bool name="recommend_enabled">false</bool>
+    <bool name="feedback_enabled">false</bool>
     <bool name="logger_enabled">false</bool>
-    <bool name="sourcecode_enabled">true</bool>
+    <bool name="sourcecode_enabled">false</bool>
     <string name="sourcecode_url" translatable="false">https://github.com/nextcloud/android</string>
-    <bool name="license_enabled">true</bool>
+    <bool name="license_enabled">false</bool>
     <string name="license_url" translatable="false">https://www.gnu.org/licenses/gpl-2.0.html</string>
     <string name="url_imprint"></string>
-    <string name="mail_feedback">android@nextcloud.com</string>
+    <string name="mail_feedback">android@safecallsos.com</string>
     <string name="url_app_download">"https://play.google.com/store/apps/details?id=com.nextcloud.client"</string>
     <string name="url_server_install">https://nextcloud.com/install</string>
 
@@ -93,7 +93,7 @@
     <string name="mail_logger"></string>
 
     <!-- Determine is participate enabled -->
-    <bool name="participate_enabled">true</bool>
+    <bool name="participate_enabled">false</bool>
     <!-- Participate links -->
     <string name="fdroid_beta_link" translatable="false">https://f-droid.org/repository/browse/?fdid=com.nextcloud.android.beta</string>
     <string name="beta_apk_link" translatable="false">https://download.nextcloud.com/android/dev/latest.apk</string>
