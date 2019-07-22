@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_android">%1$s Android app</string>
+    <string name="about_android">SafeCallsOS %1$s</string>
     <string name="about_version">version %1$s</string>
     <string name="about_version_with_build">version %1$s, build #%2$s</string>
     <string name="actionbar_sync">Refresh account</string>
@@ -808,7 +808,7 @@
     <string name="file_rename">Rename</string>
     <string name="fab_label">Add or upload</string>
     <string name="account_creation_failed">Account creation failed</string>
-    <string name="single_sign_on_request_token" formatted="true">Allow %1$s to access your Nextcloud account %2$s?</string>
+    <string name="single_sign_on_request_token" formatted="true">Allow %1$s to access your SafeCloud account %2$s?</string>
     <string name="permission_deny">Deny</string>
     <string name="permission_allow">Allow</string>
     <string name="share_send_note">Note to recipient</string>

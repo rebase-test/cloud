@@ -395,10 +395,6 @@ public abstract class DrawerActivity extends ToolbarActivity
             case R.id.nav_bar_files:
                 showFiles(false);
                 break;
-            case R.id.nav_bar_settings:
-                Intent settingsIntent = new Intent(getApplicationContext(), SettingsActivity.class);
-                startActivity(settingsIntent);
-                break;
             default:
                 break;
         }
@@ -485,10 +481,6 @@ public abstract class DrawerActivity extends ToolbarActivity
             case R.id.nav_contacts:
                 Intent contactsIntent = new Intent(getApplicationContext(), ContactsPreferenceActivity.class);
                 startActivity(contactsIntent);
-                break;
-            case R.id.nav_settings:
-                Intent settingsIntent = new Intent(getApplicationContext(), SettingsActivity.class);
-                startActivity(settingsIntent);
                 break;
             case R.id.nav_participate:
                 Intent participateIntent = new Intent(getApplicationContext(), ParticipateActivity.class);

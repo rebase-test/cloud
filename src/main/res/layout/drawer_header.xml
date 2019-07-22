@@ -116,6 +116,7 @@
                     android:layout_height="28dp"
                     android:ellipsize="end"
                     android:lines="1"
+                    android:visibility="gone"
                     android:maxLines="1"
                     android:shadowColor="@color/drawer_shadow"
                     android:shadowDx="0.5"

@@ -266,7 +266,7 @@
     <string name="file_migration_cleaning">Очистка…</string>
     <string name="file_migration_dialog_title">Обновление пути к хранилищу</string>
     <string name="file_migration_directory_already_exists">Каталог с данными уже существует. Выберите одно из действий:</string>
-    <string name="file_migration_failed_dir_already_exists">Папка «Nextcloud» уже существует</string>
+    <string name="file_migration_failed_dir_already_exists">Папка «SafeCloud» уже существует</string>
     <string name="file_migration_failed_not_enough_space">Недостаточно свободного места</string>
     <string name="file_migration_failed_not_readable">Не удалось прочитать исходный файл</string>
     <string name="file_migration_failed_not_writable">Не удалось выполнить запись в файл назначения</string>
@@ -296,7 +296,7 @@
     <string name="filename_forbidden_characters">Недопустимые символы: / \\ &lt; &gt; : \" | ? *</string>
     <string name="filename_forbidden_charaters_from_server">Имя файла содержит как минимум один недопустимый символ</string>
     <string name="filename_hint">Имя файла</string>
-    <string name="files_drop_not_supported">Эта функция Nextcloud, выполните обновление.</string>
+    <string name="files_drop_not_supported">Эта функция SafeCloud, выполните обновление.</string>
     <string name="first_run_1_text">Храните свои данные в безопасности и под своим контролем</string>
     <string name="first_run_2_text">Защищённое совместная работа &amp;обмен файлами</string>
     <string name="first_run_3_text">Простые в использовании приложения для работы с почтой, календарями и контактами</string>
@@ -405,7 +405,7 @@
     <string name="notifications_no_results_message">Проверьте позже.</string>
     <string name="offline_mode">Отсутствует подключение к Интернет</string>
     <string name="operation_canceled">Операция отменена</string>
-    <string name="outdated_server">Версия сервера Nextcloud  более не поддерживается, требуется её обновление.</string>
+    <string name="outdated_server">Версия сервера SafeCloud  более не поддерживается, требуется её обновление.</string>
     <string name="overflow_menu">Дополнительное меню</string>
     <string name="participate_beta_headline">Протестируйте разрабатываемую версию</string>
     <string name="participate_beta_text">Она включает в себя все готовящиеся возможности с самой передовой. Могут появляться баги, в таком случае, напишите о них нам.</string>
@@ -579,7 +579,7 @@
     <string name="shared_with_you_by">С вами поделился %1$s</string>
     <string name="sharee_add_failed">Не удалось открыть общий доступ</string>
     <string name="signup_with_provider">Подключиться через поставщика услуги</string>
-    <string name="single_sign_on_request_token" formatted="true">Разрешить %1$s получить доступ к вашей учетной записи Nextcloud %2$s?</string>
+    <string name="single_sign_on_request_token" formatted="true">Разрешить %1$s получить доступ к вашей учетной записи SafeCloud %2$s?</string>
     <string name="sort_by">Порядок сортировки</string>
     <string name="sort_by_modification_date_ascending">Сначала новые</string>
     <string name="sort_by_modification_date_descending">Сначала старые</string>
